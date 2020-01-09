@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Proy3</string>
+    <string name="agenda">Agenda</string>
+    <string name="add">Agregar</string>
+    <string name="lista">Listar</string>
+    <string name="delete">Eliminar</string>
+    <string name="nombre">Nombre:</string>
+    <string name="edad">Edad:</string>
+    <string name="correo">Correo:</string>
+    <string name="curp">CURP:</string>
+    <string name="regresar">Regresar</string>
+    <string name="listar">Listar</string>
+    <string name="lblLista">Lista</string>
+</resources>
